@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/krishna/Documents/ECE-365/final_vending/final_vending.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/krishna/Documents/ECE-365/final_vending/final_vending.srcs/sources_1/new/bin2bcd.v,1651043987,verilog,,,,bin2bcd;bin2bcd_tb,,,,,,,,
+C:/Users/krishna/Documents/ECE-365/final_vending/final_vending.srcs/sources_1/new/final_vending.v,1651127249,verilog,,,,complete;insert;machine_tb;select,,,,,,,,
+C:/Users/krishna/Documents/ECE-365/final_vending/final_vending.srcs/sources_1/new/seven_seg_control.v,1651046237,verilog,,,,anode_control;bcd_control;clockdivide;refresh_counter;segment7;sevensegal_tb;sevensegall,,,,,,,,
